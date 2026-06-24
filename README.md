@@ -14,6 +14,12 @@ The API returns products ordered by newest first and is designed to remain effic
 
 ---
 
+## Live Demo Notes
+
+The application is connected to a hosted PostgreSQL database.
+
+To avoid exposing database credentials publicly, the database connection string is not included in this repository.
+
 ## Tech Stack
 
 * Node.js
@@ -114,6 +120,8 @@ Run:
 ```bash
 npm run seed
 ```
+
+
 
 ---
 
